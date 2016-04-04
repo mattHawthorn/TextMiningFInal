@@ -12,7 +12,7 @@ Data:
     - 135 'topics'
     - 540 'categories' - places, people, orgs, exchanges
     - 21578 instances
-Metrics:
-- Normalized mutual information 
-- Mean F-score across hierarchical levels
-- F-score @ true number of topics
+- Metrics:
+    - Normalized mutual information
+    - Mean F-score across hierarchical levels
+    - F-score @ true number of topics
