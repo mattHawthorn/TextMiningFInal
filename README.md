@@ -6,4 +6,13 @@ Questions:
 
 Data:
 - 20 Newsgroups: https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
+    - 20 classes
+    - 20000 instances
 - Reuters-21578 https://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection
+    - 135 'topics'
+    - 540 'categories' - places, people, orgs, exchanges
+    - 21578 instances
+Metrics:
+- Normalized mutual information 
+- Mean F-score across hierarchical levels
+- F-score @ true number of topics
