@@ -1,0 +1,1 @@
+2740 NA problem bugging create windows _num_ child root eventmask buttonpressmask keypressmask _num_ child _num_ donotpropagatemask buttonpressmask keypressmask keypress events _num_ discarded buttonpress events fall _num_ subwindow set _num_ fyi xnews olvwm fundamentally wrong

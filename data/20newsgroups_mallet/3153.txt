@@ -1,0 +1,1 @@
+3153 NA clock frequency differences types _num_ _num_ processors list extend correct _num_ true _num_ bit processor cache _num_ sx emulates _num_ _num_ bit bus _num_ true _num_ bit processor internal mathematical coprocessor correct internal cache correct big extended instruction set _num_ sx sorta _num_ _num_ dx sorta _num_ lot people add lot information post email prefer

@@ -1,0 +1,1 @@
+289 NA laptop connectivity cards part _num_ rn desc _num_ remote emulation card toshiba laptop computer part _num_ desc easytalk _num_ bd dedicated internal modem mnp level _num_ toshiba _num_ _num_ part _num_ ll desc easytalk internal ethernet card toshiba laptop expansion slot part _num_ desc easytalk _num_ terminal emulation toshiba laptop expansion slot

@@ -1,0 +1,1 @@
+2589 NA soft scrolling vga change intern registers crtc bit difficult explain suggest programming ega vga adapter addison wesley find descriptions vga register boris

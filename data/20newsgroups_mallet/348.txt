@@ -1,0 +1,1 @@
+348 NA write bank page memory vga _num_ _num_ _num_ colour mode perform page flipping animation buffering screen map mask registers perform required task note work standard vga necessarily svga card

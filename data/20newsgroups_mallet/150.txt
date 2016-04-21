@@ -1,0 +1,1 @@
+150 NA gnuplot make easy plot real valued functions _num_ variables plot functions values _num_ vectors plotting arrays arrows complete arrowheads thought work pointers advance

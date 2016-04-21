@@ -1,0 +1,1 @@
+8810 NA _email_ mark mccullough writes circular recursive semantics recursiveness problems horribly inefficient assembly programmer tail recursive functions scheme efficient iterative loops program assembler heard optimizing compilers

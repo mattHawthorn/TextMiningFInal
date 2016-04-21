@@ -1,0 +1,1 @@
+112 NA dec nt _num_ dx _num_ adaptec scsi controller hard disk cd rom drive add _num_ comm ethernet card _num_ _num_ reboot system receive error message boot device found pull _num_ comm card reboot fine moved controller _num_ comm card slots positions slot controller slot controller result dec responded problem appreciated

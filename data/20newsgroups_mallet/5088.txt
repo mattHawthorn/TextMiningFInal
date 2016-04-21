@@ -1,0 +1,1 @@
+5088 NA press function key text string xmtext widget put xmtext translations augment key _num_ insert string resource file translation happen put xmtext translations key _num_ insert string file text string _num_ pressed keys work makes sense default translation mode replace syntax problem deeper

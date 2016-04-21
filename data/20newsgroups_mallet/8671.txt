@@ -1,0 +1,1 @@
+8671 NA scsi cards dos systems require separate device driver loaded memory scsi device hooked true _num_ bit os's

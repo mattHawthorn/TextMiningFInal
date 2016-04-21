@@ -1,0 +1,1 @@
+1794 NA pins connect make loopback connector serial port build loopback connector test serial port

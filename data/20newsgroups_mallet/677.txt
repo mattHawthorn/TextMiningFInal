@@ -1,0 +1,1 @@
+677 NA set ipx group copied stuff compiled _num_ _num_ runs sunos _num_ _num_ gcc _num_ things run fine find couple bugs recompile clients ipx runs _num_ _num_ ld undefined symbol xshapequeryextension xshapecombinemask include libxext rid messages figure ipx _num_ _num_ ideas

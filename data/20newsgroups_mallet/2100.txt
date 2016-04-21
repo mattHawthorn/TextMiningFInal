@@ -1,0 +1,1 @@
+2100 NA _num_ timing pin compatible _num_ _num_ iheirent bug cts rts handshaking suitable pin replacement put serial card possibly buffered version

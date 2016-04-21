@@ -1,0 +1,1 @@
+10133 NA source _num_ circuit sequence flasher input _num_ volts ac _num_ amps output sequence _num_ channels knob vary frequency max _num_ amps leg switch put channels full time email assistance provide randy email _email_

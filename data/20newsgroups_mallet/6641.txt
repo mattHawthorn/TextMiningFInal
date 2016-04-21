@@ -1,0 +1,1 @@
+6641 NA _num_ port boards pcs standard ports mention expensive coprocessed share irqs irqs _num_ _num_

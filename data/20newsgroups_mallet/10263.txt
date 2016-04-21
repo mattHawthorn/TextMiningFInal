@@ -1,0 +1,1 @@
+10263 NA _email_ writes widget defined gl glxmdraw motif glxdraw athena widget similar xmdrawingarea gl calls render window glxlink glxunlink glxgetconfig glxwinset man pages hold widgets

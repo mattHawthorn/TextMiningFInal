@@ -1,0 +1,1 @@
+10844 NA australia dial _num_ number read back live country include area code nearest capital city wa _num_ _num_ mark

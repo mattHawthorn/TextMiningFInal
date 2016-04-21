@@ -1,0 +1,1 @@
+3439 NA implements rpc server hp xwindows sun xview notifyenablerpcsvc call automatically executes rpc processes detects incoming request similar function hp motif perform function appreciated

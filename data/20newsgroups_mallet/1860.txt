@@ -1,0 +1,1 @@
+1860 NA vesa local bus motherboard _num_ mb ram _num_ cache _num_ _num_ floppy _num_ mb hard drive ide controller _num_ hd _num_ fd _num_ _num_ _num_ local bus _num_ mb svga video card _num_ svga monitor _num_ dpi mini tower _num_ key keyboard

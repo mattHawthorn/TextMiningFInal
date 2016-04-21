@@ -1,0 +1,1 @@
+8958 NA creating graphics program athena widgets xlib routines install custom graphics contex obtaining display window variables xtwindowofobject xtdisplayofobject object widgets problem occurs button pressed menu selected graphic contex reverts orginal moving allocation graphic context allocation buttons changed preforming manipulation calling xtappmainloop leslie donaldson

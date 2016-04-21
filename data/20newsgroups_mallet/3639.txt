@@ -1,0 +1,1 @@
+3639 NA find uart interface _num_ _num_ baud _num_ data bits _num_ stop bits parity ability break detect irq output pin irq character received dallas ds _num_ _num_ mhz _num_ clone break detect looked _num_ _num_ _num_ _num_

@@ -1,0 +1,1 @@
+7327 NA writing application running motif stuff application quits shut windows session send sigterm signal application trapping signals thought signal check top level window destroyed destroynotify events move windows check window destroyed field check combination events replies mail summarise ian

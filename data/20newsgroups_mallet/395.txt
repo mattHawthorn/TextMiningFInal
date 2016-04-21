@@ -1,0 +1,1 @@
+395 NA set cursor color forground color set xterm man page cr color option specifies color text cur sor default foreground color text doesnt case appears default black xterm cursorcolor set

@@ -1,0 +1,1 @@
+2980 NA create bitmap size bitmap creation sdk manual _num_ _num_ bitmap set width height _num_ supplied byte string _num_ chars bitmap image changed width height _num_ _num_ string padded byets make size image manual _num_ _num_ size multiple _num_ bytes define bitmap image size chen _email_

@@ -1,0 +1,1 @@
+2098 NA write windows based interface runs top gdb understanding supposed fork gdb subprocess pipes debug program program main int printf enter scanf printf output program hangs returning output printf statement type _num_ printf's output time pipes ioctl deepak

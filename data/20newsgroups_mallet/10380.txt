@@ -1,0 +1,1 @@
+10380 NA adb graphicsd tablet connect quadra _num_ _num_ adb port give mouse tablet mouse keyboard advance

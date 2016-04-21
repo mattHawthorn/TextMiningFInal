@@ -1,0 +1,1 @@
+3762 NA working project create contour lines random data points work tells triangulated irregular networks tin delauney criiterion krige method suggestions references programs source code creating contours surface modeling greatly appreciated reached addresses paul conway

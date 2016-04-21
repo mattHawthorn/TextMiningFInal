@@ -1,0 +1,1 @@
+6665 NA int _num_ read joystick hideously slow _num_ cpu time spent reading joystick program printf joyread problem lot programs trap int _num_ smartdrv slow hell interface read joystick port safe fashion polling platform clockspeed specific

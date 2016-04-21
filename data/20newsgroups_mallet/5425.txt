@@ -1,0 +1,1 @@
+5425 NA yesterday wrote program bilinear interpolation ala numerical recipes pbmplus libraries pretty happy results coded linear interpolation schemes ahead write pointers

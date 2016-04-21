@@ -1,0 +1,1 @@
+6216 NA tseng labs video card problems super vga mode checkit _num_ reports video page frame address error page frame _num_ fixed card _num_ ax

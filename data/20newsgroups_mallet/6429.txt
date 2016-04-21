@@ -1,0 +1,1 @@
+6429 NA run xwd sun sparcstation ipx sunos _num_ _num_ openwindows _num_ motif window manager unsuccessful xwd motif xwd xwd dmp error failed request baddrawable invalid pixmap window parameter major opcode failed request _num_ xgetimage resource id failed request _num_ _num_ serial number failed request _num_ current serial number output stream _num_

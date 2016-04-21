@@ -1,0 +1,1 @@
+1433 NA implement pointer feature xlib multiple windows input show output simultaneously displays implement pointer feature pointer windows choose pointer menu give hints proceed xlib replies greatly appreciated

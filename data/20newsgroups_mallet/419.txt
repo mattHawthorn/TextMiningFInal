@@ -1,0 +1,1 @@
+419 NA send pixmap client send colormap foreground background pixel values problem problem pixmap id colormap id telling server receiving client associations id's tia john

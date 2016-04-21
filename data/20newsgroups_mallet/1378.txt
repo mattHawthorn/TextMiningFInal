@@ -1,0 +1,1 @@
+1378 NA set foreground xor foreground background colors xsetforeground fg bg works great truecolor visuals

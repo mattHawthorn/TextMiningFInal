@@ -1,0 +1,1 @@
+11025 NA shading program based xlib public domain allocate correct colormaps program

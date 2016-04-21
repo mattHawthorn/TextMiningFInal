@@ -1,0 +1,1 @@
+3820 NA create single line text widget entering small amount text fixed width horizontal scrollbar scrolls automatically user types order insertion point visible problems addition horizontal scrollbar make text widget taller cover part text scrollbar scroll automatically user types text order insertion point visible appreciated mike

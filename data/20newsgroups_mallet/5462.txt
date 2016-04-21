@@ -1,0 +1,1 @@
+5462 NA _email_ writes article _email_ vlb _num_ dx _num_ local bus run _num_ mhz run _num_ mhz brian vlb defined _num_ cards _num_ mhz _num_ cards _num_ mhz designs _num_ mhz _num_ vlb slots c't _num_ _num_ _num_ _num_ mhz _num_ slots realy difficult design

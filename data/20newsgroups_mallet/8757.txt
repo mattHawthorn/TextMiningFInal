@@ -1,0 +1,1 @@
+8757 NA _email_ writes parent window paint area childs implement rubberband multiple xwindows select objects displayed window gc subwindowmode attribute set includeinferiors default clipbychildren beware children depth parent semantics undefined protocol

@@ -1,0 +1,1 @@
+3476 NA subject pinout pc type analogue joystick port joystick _num_ _num_ vdc _num_ button _num_ _num_ axis _num_ ground _num_ ground _num_ axis _num_ button _num_ _num_ _num_ vdc joystick _num_ _num_ vdc _num_ button _num_ _num_ axis _num_ ground _num_ axis _num_ button _num_ _num_ _num_ vdc slmr _num_ soft judges make hardened criminals

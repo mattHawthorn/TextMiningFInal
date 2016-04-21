@@ -1,0 +1,1 @@
+4198 NA _email_ pekka siltanen writes suppose cubic bezier curves control points _num_ _num_ _num_ _num_ equal control points _num_ _num_ _num_ _num_ upper bound distance curves distance distance point ti curve point curve parameter ti

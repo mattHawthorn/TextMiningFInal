@@ -1,0 +1,1 @@
+1873 NA parent window paint area childs implement rubberband multiple xwindows select objects displayed window

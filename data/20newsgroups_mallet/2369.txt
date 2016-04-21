@@ -1,0 +1,1 @@
+2369 NA application retrieve font application xfontstruct xgetfontproperty work passed xafontname details advance brian

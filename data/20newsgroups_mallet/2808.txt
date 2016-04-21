@@ -1,0 +1,1 @@
+2808 NA set palette drawing colours bios interrupt calls set values range _num_ _num_ cards palette colour range _num_ _num_ _num_ colour modes draw pixels palette values result bit colourmap compressing _num_ unique rgb triplets _num_ colour mode

@@ -1,0 +1,1 @@
+7176 NA version xterm handles color vt _num_ style status lines

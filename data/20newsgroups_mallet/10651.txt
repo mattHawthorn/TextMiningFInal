@@ -1,0 +1,1 @@
+10651 NA trouble obtaining standby current drain mc _num_ real time clock experience specs call sequences met standby mode activated bit hard decipher thought worked _num_ khz crystal lowest current drain acheive _num_ vcc _num_ ua times maximum conditions attempting create things _num_ made reset asserted trlh powerup low time _num_ made cycle negation wr stby asserted wrong

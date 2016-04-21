@@ -1,0 +1,1 @@
+4503 NA hope group bc 's objectwindows version _num_ date processed window object invoking window object calling program control window object executing statement source code class mywindow public twindow void mycallingprog calling program function mywindow mywinobj mywinobj mywindow getapplication makewindow mywinobj mywinobj show swshownormal

@@ -1,0 +1,1 @@
+6131 NA _num_ cpu impressions cpu performance compatability benchmark program called comptest cyrix cpus bug run program nextstep _num_

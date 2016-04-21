@@ -1,0 +1,1 @@
+6466 NA maximum horizontal vertical refresh rates nec _num_ fgx _num_ fge

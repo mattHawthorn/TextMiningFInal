@@ -1,0 +1,1 @@
+744 NA netters source code reads ascii file bitmap file produced thinned image preprocess character image apply thinning algorithm

@@ -1,0 +1,1 @@
+2848 NA piece code compiles fine pmax ul _num_ pmaxmach sun _num_ mach compiles sun _num_ undefined ld errors sin cos pow floor getwmshellwidgetclass getapplicationshellwidgetclass libraries linked lxaw lxmu lxt lxext lx _num_ makefile generated imake template give pointers missing compile sun _num_

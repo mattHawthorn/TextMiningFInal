@@ -1,0 +1,1 @@
+5147 NA experiment sun openwindows _num_ _num_ xterm window log solaris _num_ machine rlogin ls character line display column display rest line wrapped line display log condition persists check stty reset effect telnet rlogin occur unix console occur _num_ causing _num_ avoided _num_ terminal characteristics reset send replies _email_

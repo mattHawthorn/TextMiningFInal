@@ -1,0 +1,1 @@
+5384 NA reference algorithm detect closed curve bounded number bezier curves lies completely closed curve bounded bezier curves

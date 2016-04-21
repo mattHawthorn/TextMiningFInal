@@ -1,0 +1,1 @@
+4018 NA article _email_ _email_ brian dealy csc writes application retrieve font application xfontstruct xgetfontproperty work passed xafontname details advance brian brian dealy _num_ _num_ _num_ knowing _email_ important knowing uunet dftsrv kong dealy dylan char null unsigned long xgetfontproperty font xafont xgetatomname dpy dpy display connection font xfontstruct pointer

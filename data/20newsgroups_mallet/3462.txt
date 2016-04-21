@@ -1,0 +1,1 @@
+3462 NA article _email_ _email_ helmut haase goebel writes create pixmap larger size screen program terminate displaying message error badalloc insufficient resources servers supporting graphics accelerators creation pixmaps exeeding size screen workaround create smaller pixmaps add results

@@ -1,0 +1,1 @@
+1715 NA rtrace ray tracer supports _num_ text primitive collections spheres cylinders _num_ chars made lines splines extruded asterix inescn pt _num_ _num_ directory pub rtrace pub rtrace tmp demo images high quality text called text jpg jpeg encoded

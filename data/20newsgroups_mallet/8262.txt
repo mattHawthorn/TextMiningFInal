@@ -1,0 +1,1 @@
+8262 NA _email_ alok mathur writes set depth frame _num_ bits xlib code completely wrong approach set depth colormap window created xview wrong xvdepth xview colormap segments xlib colormap stuff easier truecolor visual losing compared straight xlib
