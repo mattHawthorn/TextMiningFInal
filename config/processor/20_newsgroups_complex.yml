@@ -1,0 +1,110 @@
+---
+sequence:
+    # underscores
+    - op: replace
+      args:
+         pattern: "_"
+         repl: " "
+    
+    # emails
+    - op: replace
+      args:
+         pattern: "[-a-zA-Z0-9_.+]+@[-a-zA-Z0-9]+\\.[-a-zA-Z0-9.]+"
+         repl: " _email_ "
+    
+    # @username
+    - op: replace
+      args:
+          pattern: "@[-_a-zA-Z0-9]+"
+          repl: " _username_ "
+
+    - op: lower
+
+    # happy emoticons
+    - op: replace
+      args:
+          pattern: '(:|;)(-| |\^)?\)'
+          repl: ' _smiley_ '
+    # sad emoticons
+    - op: replace
+      args:
+          pattern: '>?:(-| |\^)?\('
+          repl: ' _frowny_ '
+    # floating point and ints
+    - op: replace
+      arguments:
+          pattern: '[0-9]+\.[0-9]*'
+          repl: ' _float_ '
+    - op: replace
+      args:
+          pattern: '([0-9]{2}|[0-9]{4})s\W'
+          repl: ' _years_ '
+    - op: replace
+      arguments:
+          pattern: '[0-9]+'
+          repl: ' _int_ '
+    # percent
+    - op: replace
+      arguments:
+          pattern: '(_int_|_float_)[\s]*?%'
+          repl: ' _percent_ '
+    # cash
+    - op: replace
+      arguments:
+          pattern: '\$[\s]*(_int_|_float_)'
+          repl: ' _currency_ '
+    # potentially useful repeat puntuation; split it off
+    - op: replace
+      args:
+          pattern: '([!?$\*\+])\1+'
+          repl: ' _\1\1_ '
+    # potentially useful puntuation; split it off
+    - op: replace
+      args:
+          pattern: '([^_]|^)([!?$\*\+])([^_]|$)'
+          repl: ' _\2_ '
+
+    # repeated chars; reduce to 2 max
+    - op: replace
+      arguments:
+          pattern: '([a-zA-Z])\1{2,}'
+          repl: '\1\1'
+    
+    # replace actual newsgroup names
+    - op: replace
+      args:
+          pattern: "(^|\\s)(alt|comp|misc|rec|sci|soc|talk)([^\\sa-zA-A0-9])[-a-z.]+"
+          repl: ' _group_ '
+    
+    # remove quotes
+    - op: replace
+      arguments:
+          pattern: "'*\\s+'*"
+          repl: ' '
+    
+    # multiple dashes to one
+    - op: replace
+      arguments:
+          pattern: "([-_])+"
+          repl: '\1'
+    # all remaining unwanted chars
+    - op: replace
+      arguments:
+          pattern: "[^'_\\w!?$*+-]"
+          repl: ' '
+          
+    # tokenize on whitespace
+    - op: tokenize
+      args: 
+          name: RegexpTokenizer
+          kwargs: 
+                pattern: '\s+'
+                gaps: true
+                discard_empty: true
+    
+ngrams:
+    # put whatever n you like here, or a list of n's like [1,2] if you're collecting
+    # multiple lengths, e.g. for a vector-space model
+    n: 1
+    join: true
+...
