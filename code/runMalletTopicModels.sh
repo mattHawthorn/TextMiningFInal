@@ -18,9 +18,8 @@ for FILE in "${MALLETFILES[@]}"
 do
 	for TOPIC in "${TOPICS[@]}"
 	do
-		echo "$MALLETDIR$MALLET train-topics --input $INPUTDIR$FILE --num-topics $TOPIC --output-topic-keys "$FILE.$TOPIC.topics_KEYS.txt" --output-doc-topics \"$FILE.$TOPIC.topics_COMPOSITION.txt\" --optimize-interval $OPTINT"		
-		$MALLETDIR$MALLET train-topics --input $INPUTDIR$FILE --num-topics $TOPIC --output-topic-keys "$FILE.$TOPIC.topics_KEYS.txt" --output-doc-topics "$FILE.$TOPIC.topics_COMPOSITION.txt" --optimize-interval $OPTINT
-		break
+		echo "$MALLETDIR$MALLET train-topics --input $INPUTDIR$FILE --num-topics $TOPIC --output-topic-keys "$OUTPUTDIR$FILE.$TOPIC.topics_KEYS.txt" --output-doc-topics \"$OUTPUTDIR$FILE.$TOPIC.topics_COMPOSITION.txt\" --optimize-interval $OPTINT"		
+		$MALLETDIR$MALLET train-topics --input $INPUTDIR$FILE --num-topics $TOPIC --output-topic-keys "$OUTPUTDIR$FILE.$TOPIC.topics_KEYS.txt" --output-doc-topics "$OUTPUTDIR$FILE.$TOPIC.topics_COMPOSITION.txt" --optimize-interval $OPTINT
 	done
 done
 
