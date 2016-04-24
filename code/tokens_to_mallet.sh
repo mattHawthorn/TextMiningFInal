@@ -11,7 +11,7 @@ cat localtextfiles.list | while read INFILE
 do
   echo "Converting $INFILE to MALLET"
   OUTFILE=${INFILE%.*}.mallet
-  $MALLETDIR$MALLET import-file --input $INFILE --output $OUTFILE --token-regex '[^\s]+'
+  $MALLETDIR$MALLET import-file --input $INFILE --output $OUTFILE --token-regex '[^\s]+' --keep-sequence
 done
 
 rm localtextfiles.list
