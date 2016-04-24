@@ -1,0 +1,10 @@
+0	0.1194	the of to and a in for is be on this that by will are as or with from _int_ 
+1	0.00045	'ax _int_ max f _$_ _percent_ g _+_ v p q m _*_ d t b r u n _?_ 
+2	0.05962	the of and in to was a they were _int_ that he by from on had i their for with 
+3	0.2691	the to of that is a and i in you it not are _?_ be this have as for _email_ 
+4	0.19789	the _int_ i a to and is for it of in with have _?_ on that this you _email_ or 
+5	0.02987	_int_ _*_ _+_ m _!_ _?_ _$_ w t _username_ b s p r - d c u x q 
+6	0.06019	the x _int_ to and a _*_ of is in for - _float_ _email_ on file you this or from 
+7	0.07131	the in to a and of i he _email_ that was for _int_ is on _?_ have but be it 
+8	0.07739	_int_ - _float_ _currency_ st at new _**_ a period _*_ vs _+_ apr la pp san pts april power 
+9	0.26667	the a to i in and of it is _email_ that you for on _?_ have _int_ my this if 

@@ -1,0 +1,5 @@
+0	0.20168	the of to and in that a is it i not you are be for this as _?_ have by 
+1	0.0988	_int_ - _float_ _currency_ the of and for in at space by _!_ a new st from _email_ _+_ april 
+2	0.40571	the a to i and in of that is it _email_ you for on _?_ have was this but be 
+3	0.1958	the _int_ to a and is of i for in x it - on with _float_ this you or that 
+4	0.01117	_int_ 'ax _*_ _+_ _$_ m _!_ _?_ f _percent_ g w t p b max q d v _username_ 
