@@ -59,6 +59,8 @@ sequence:
                 gaps: true
                 discard_empty: true
                 
+    - op: stopwords
+      
     - op: stem
       args:
           name: SnowballStemmer
