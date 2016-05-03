@@ -1,5 +1,5 @@
 class BisectingPartitional:
-    def __init__(self,metric,objective,min_leaf,max_clusters):
+    def __init__(self,criterion,min_leaf=None,max_clusters=None):
         """
         Tree is modeled as a ?
         Leaves need to be easily min/max-indexable for argmin/argmax over objective function of candidate splits (heap?).
@@ -10,11 +10,10 @@ class BisectingPartitional:
         Whole clustering should be indexable by level, for computing metrics over all levels of splitting.
         
         """
-        self.root = []
+        self.root = # whatever a node is []
         self.depth = 0
         self.num_leaves = 0
-        self.metric = metric
-        self.objective = objective
+        self.criterion = criterion
         self.min_leaf = min_leaf
         self.max_clusters = max_clusters
         
@@ -31,10 +30,6 @@ class BisectingPartitional:
         """
         Generate n candidate bisections of a given node.
         """
-        # current_objective = objective(current clusters)
-        # best_objective = current_objective
-        # best split = []
-        # 
         # # generate n candidate bisections
         # for iteration in range(n):
         #     # pick 2 random centers from the node datapoints
@@ -61,8 +56,8 @@ class BisectingPartitional:
         #     if objective < best_objective:
         #         best_objective = objective
         #         best_split = current_split
-        
-        
+    
+    
     def validate(self,labels,weighting):
         """
         Compute a score metric at each level of the clustering (NMI, F1), weighted by some function indicating quality
@@ -70,4 +65,11 @@ class BisectingPartitional:
         the weighted mean.
         """
 
+
+        
+class node:
+    self.children #tuple
+    self.docs # list of ids
+[objective,split_number,level,child1,child2,list_of_doc_IDs]
+        
         
