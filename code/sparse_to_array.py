@@ -1,5 +1,6 @@
 #encoding:utf-8
 
+import pandas as pd
 import numpy as np
 import scipy as scipy
 import os
@@ -65,4 +66,7 @@ def sparse_docs_to_array(docs,vocab):
     # return the new document vector array and the new vocab
     return docvecs,newvocab
     
-
+def topic_composition_to_array(file_name):
+    data =pd.read_csv(file_name,delimiter="\t",header=None)
+    data.drop([0,1],axis=1,inplace=True)
+    return data.values
