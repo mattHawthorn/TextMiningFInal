@@ -1,0 +1,5 @@
+0	0.03693	oil price dlrs mln compani crude product barrel mine opec gold gas lt bpd petroleum year energi rais ship saudi 
+1	0.07001	mln cts net loss dlrs shr qtr rev profit lt oper year note avg shrs sale includ mths corp share 
+2	0.07187	pct trade bank year market rate price export offici japan govern month import industri countri foreign tonn week meet product 
+3	0.07815	mln dlrs billion pct year lt quarter cts compani bank record april dividend share earn profit march sale expect end 
+4	0.07952	lt share compani dlrs offer corp pct mln stock group acquir unit acquisit common stake buy sharehold merger sell agreement 

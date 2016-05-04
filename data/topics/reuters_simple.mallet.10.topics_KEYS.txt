@@ -1,0 +1,10 @@
+0	0.03919	bank rate pct billion dlrs mln market loan reserv money week stg interest dollar fed exchang day foreign credit fund 
+1	0.04621	mln dlrs year compani profit earn share quarter billion lt sale report expect net pct result oper loss end tax 
+2	0.02573	price tonn export produc sugar mln coffe market quota year stock opec oil product meet week cocoa offici trader saudi 
+3	0.04875	share offer lt compani pct dlrs stock group corp stake common bid mln sharehold tender merger propos board secur invest 
+4	0.06077	lt compani corp dlrs mln unit acquir sale acquisit sell buy complet agreement pct subsidiari oper term share purchas group 
+5	0.07541	mln cts net loss shr dlrs qtr rev profit lt oper year note avg shrs sale includ mths billion corp 
+6	0.0365	cts lt april dividend record stock div pay share prior march qtli split set quarter corp payabl payout declar sharehold 
+7	0.03343	oil price mine crude dlrs gas compani barrel lt gold petroleum pct energi product rais ship ton pipelin corp dome 
+8	0.05021	trade japan offici state govern market industri countri japanes told foreign year minist econom import meet plan polici nation agreement 
+9	0.02874	pct billion year januari februari rise rose month decemb mln dlrs price fell figur increas product compar march growth quarter 
