@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{LDA}
+D.~M. Blei, A.~Y. Ng, and M.~I. Jordan.
+\newblock Latent dirichlet allocation.
+\newblock {\em the Journal of machine Learning research}, 3:993--1022, 2003.
+
+\bibitem{hilbertspace}
+B.~Fuglede and F.~Topsoe.
+\newblock Jensen-shannon divergence and hilbert space embedding.
+\newblock In {\em IEEE International Symposium on Information Theory}, pages
+  31--31, 2004.
+
+\bibitem{learnedmetrics}
+G.~Lebanon.
+\newblock Metric learning for text documents.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 28(4):497--508, 2006.
+
+\bibitem{threestage}
+Y.~Ma, Y.~Wang, and B.~Jin.
+\newblock A three-phase approach to document clustering based on topic
+  significance degree.
+\newblock {\em Expert Systems with Applications}, 41(18):8203--8210, 2014.
+
+\bibitem{jointinference}
+P.~Xie and E.~P. Xing.
+\newblock Integrating document clustering and topic modeling.
+\newblock {\em arXiv preprint arXiv:1309.6874}, 2013.
+
+\bibitem{clustersurvey}
+Y.~Zhao and G.~Karypis.
+\newblock Evaluation of hierarchical clustering algorithms for document
+  datasets.
+\newblock In {\em Proceedings of the eleventh international conference on
+  Information and knowledge management}, pages 515--524. ACM, 2002.
+
+\end{thebibliography}
